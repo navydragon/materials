@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="44e664dc-fccf-46d1-bd2a-df328d895552" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <lom:lom>
+            <lom:general>
+                <lom:title>
+                    <lom:langstring>1.2 Очистка данных и взаимодействие с ними в Power BI</lom:langstring>
+                </lom:title>
+            </lom:general>
+        </lom:lom>
+    </metadata>
+    <organizations default="fc163fbd-b226-11ef-af62-96dc6939f51a_org">
+        <organization identifier="fc163fbd-b226-11ef-af62-96dc6939f51a_org">
+            <title>1.2 Очистка данных и взаимодействие с ними в Power BI</title>
+            <item identifier="fc163fbd-b226-11ef-af62-96dc6939f51a" identifierref="resource">
+                <title>1.2 Очистка данных и взаимодействие с ними в Power BI</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+            <file href="res/js/fast-average-color-7.1.0.umd.js"></file>
+            <file href="res/js/focus-visible-5.2.0.iife.js"></file>
+            <file href="res/js/hyperhtml-2.34.2.umd.js"></file>
+            <file href="res/js/immer-6.0.9.umd.js"></file>
+            <file href="res/js/luxon-3.4.4.umd.js"></file>
+            <file href="res/js/output.min.js"></file>
+            <file href="res/js/protobufjs-6.8.8.umd.js"></file>
+            <file href="res/js/react-19.1.0.umd.js"></file>
+            <file href="res/js/react-dom-19.1.0.umd.js"></file>
+            <file href="res/js/reatom-v1-1.1.5.umd.js"></file>
+            <file href="res/js/res/EmptyStateLock-JOKGWW5F.png"></file>
+            <file href="res/js/res/EmptyStatePreFilledImage-MIFR5ML7.svg"></file>
+            <file href="res/styles/bundle.css"></file>
+            <file href="res/styles/fonts/jb-mono-bold-italic_75ca6e40.woff"></file>
+            <file href="res/styles/fonts/jb-mono-bold_98303ebd.woff"></file>
+            <file href="res/styles/fonts/jb-mono-regular-italic_d49a26b5.woff"></file>
+            <file href="res/styles/fonts/jb-mono-regular_8c33f3c.woff"></file>
+            <file href="res/styles/fonts/roboto-bold-italic_da1a3932.woff2"></file>
+            <file href="res/styles/fonts/roboto-bold_3a4bac1d.woff2"></file>
+            <file href="res/styles/fonts/roboto-medium-italic_f3e02675.woff2"></file>
+            <file href="res/styles/fonts/roboto-medium_513df3a1.woff2"></file>
+            <file href="res/styles/fonts/roboto-regular-italic_b3e37f46.woff2"></file>
+            <file href="res/styles/fonts/roboto-regular_da6cc2e.woff2"></file>
+            <file href="res/styles/res/FallbackTile_88eb17b.svg"></file>
+            <file href="res/styles/res/arrow-icon-left_9424b54a.svg"></file>
+            <file href="res/styles/res/arrow-icon-right_4bfe2449.svg"></file>
+            <file href="res/styles/res/default-background-image_301b2040.svg"></file>
+            <file href="res/styles/res/watermark-logo_9d0cfd7e.svg"></file>
+            <file href="res/unsupportedBrowser/fonts/fonts.css"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-bold-italic.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-bold.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-medium-italic.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-medium.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-regular-italic.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-regular.woff2"></file>
+            <file href="res/unsupportedBrowser/unsupported-browser.html"></file>
+            <file href="res/unsupportedBrowser/unsupported-browser.js"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Chrome.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Edge.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Firefox.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Safari.png"></file>
+            <file href="res/goodbye.html"></file>
+            <file href="res/fonts/montserrat/montserrat-bold-italic.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-bold.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-regular-italic.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-regular.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-bold-italic.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-bold.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-regular-italic.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-regular.woff"></file>
+            <file href="res/index.html"></file>
+            <file href="res/connectors/scorm.min.js"></file>
+            <file href="res/lng/ru-RU/messages.json"></file>
+            <file href="res/data-1.json"></file>
+            <file href="res/data/islru-10122306/afe17350-a660-11ef-be6d-5a5fd17b58f7.png"></file>
+            <file href="res/data/islru-10122306/559c330d-be19-11ef-9faa-26cc945bec11.png"></file>
+            <file href="res/data/islru-10122306/d42f8483-be19-11ef-9faa-26cc945bec11.gif"></file>
+            <file href="res/data/islru-10122306/2366e510-6930-11ef-b94d-9e8224377c05.png"></file>
+            <file href="res/data/islru-10122306/61b18860-6f50-11ef-ba90-52234593a7d1.png"></file>
+            <file href="res/data/islru-10122306/6b1d707f-6f50-11ef-9e15-2a2b3bcec85c.png"></file>
+            <file href="res/data/islru-10122306/15fc4cbf-c111-11ef-831e-8e57dd5d3162.png"></file>
+            <file href="res/data/islru-10122306/e1a5935f-c110-11ef-aef0-6a653c946505.png"></file>
+            <file href="res/data/islru-10122306/84f123d7-c111-11ef-aef0-6a653c946505.gif"></file>
+            <file href="res/data/islru-10122306/29c9a86b-c113-11ef-aef0-6a653c946505.gif"></file>
+            <file href="res/data/islru-10122306/387992e9-c113-11ef-aef0-6a653c946505.png"></file>
+            <file href="res/data/islru-10122306/85f5fa25-c113-11ef-aef0-6a653c946505.gif"></file>
+            <file href="res/data/islru-10122306/a34db783-c113-11ef-8330-8e57dd5d3162.png"></file>
+            <file href="res/data/islru-10122306/4293eb53-b22b-11ef-aec1-7228e27bd997.png"></file>
+            <file href="res/data/islru-10122306/abcb0e4a-c117-11ef-aef0-6a653c946505.png"></file>
+            <file href="res/data/islru-10122306/25f68ad3-b22c-11ef-af62-96dc6939f51a.png"></file>
+            <file href="res/data/islru-10122306/eecbd5e3-c117-11ef-833a-8e57dd5d3162.png"></file>
+            <file href="res/data/islru-10122306/57451f37-c11b-11ef-aef0-6a653c946505.png"></file>
+            <file href="res/data/islru-10122306/7eed8baf-c11b-11ef-835a-8e57dd5d3162.png"></file>
+            <file href="res/data/islru-10122306/e05187f0-c11b-11ef-835a-8e57dd5d3162.gif"></file>
+            <file href="res/data/islru-10122306/2847b522-6f54-11ef-ba90-52234593a7d1.png"></file>
+            <file href="res/data/islru-10122306/7b9ddfb6-c126-11ef-aef0-6a653c946505.png"></file>
+            <file href="res/data/islru-10122306/609b8383-c126-11ef-aef0-6a653c946505.gif"></file>
+        </resource>
+    </resources>
+</manifest>
