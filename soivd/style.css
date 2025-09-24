@@ -107,6 +107,20 @@ body {
   background-size: contain;
 }
 
+.item__img_type_6 {
+  background-image: url('./img/6.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.item__img_type_7 {
+  background-image: url('./img/7.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
 /* тело карточки */
 .item__body {
   margin: 20px 0 0;
