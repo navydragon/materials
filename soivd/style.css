@@ -121,6 +121,20 @@ body {
   background-size: contain;
 }
 
+.item__img_type_8 {
+  background-image: url('./img/8.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.item__img_type_9 {
+  background-image: url('./img/9.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
 /* тело карточки */
 .item__body {
   margin: 20px 0 0;
