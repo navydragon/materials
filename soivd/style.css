@@ -149,6 +149,41 @@ body {
   background-size: contain;
 }
 
+.item__img_type_12 {
+  background-image: url('./img/12.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.item__img_type_13 {
+  background-image: url('./img/13.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.item__img_type_14 {
+  background-image: url('./img/14.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.item__img_type_15 {
+  background-image: url('./img/15.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.item__img_type_16 {
+  background-image: url('./img/17.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
 /* тело карточки */
 .item__body {
   margin: 20px 0 0;
