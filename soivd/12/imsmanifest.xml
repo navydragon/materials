@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest identifier="11c232a7-f071-453c-aa32-bec80b67f954" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="79bc08b9-208e-42aa-bf3b-90ada615c1c2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
     <metadata>
         <schema>ADL SCORM</schema>
         <schemaversion>1.2</schemaversion>
@@ -26,14 +26,17 @@
             <file href="res/js/hls.js-1.6.2.umd.js"></file>
             <file href="res/js/hyperhtml-2.34.2.umd.js"></file>
             <file href="res/js/immer-6.0.9.umd.js"></file>
+            <file href="res/js/lottie-web-5.13.0.esm.js"></file>
             <file href="res/js/luxon-3.4.4.umd.js"></file>
             <file href="res/js/output.min.js"></file>
+            <file href="res/js/posthog-js-1.335.3.esm.js"></file>
             <file href="res/js/protobufjs-6.8.8.umd.js"></file>
-            <file href="res/js/react-19.1.0.umd.js"></file>
-            <file href="res/js/react-dom-19.1.0.umd.js"></file>
+            <file href="res/js/react-19.2.3.umd.js"></file>
+            <file href="res/js/react-dom-19.2.3.umd.js"></file>
             <file href="res/js/reatom-v1-1.1.5.umd.js"></file>
-            <file href="res/js/res/EmptyStateLock-JOKGWW5F.png"></file>
+            <file href="res/js/res/EmptyStateLock-VQU27NML.png"></file>
             <file href="res/js/res/EmptyStatePreFilledImage-MIFR5ML7.svg"></file>
+            <file href="res/js/res/default_background-WLUHEOYW.png"></file>
             <file href="res/styles/bundle.css"></file>
             <file href="res/styles/fonts/jb-mono-bold-italic_75ca6e40.woff"></file>
             <file href="res/styles/fonts/jb-mono-bold_98303ebd.woff"></file>
@@ -77,7 +80,6 @@
             <file href="res/lng/ru-RU/messages.json"></file>
             <file href="res/data-1.json"></file>
             <file href="res/data/islru-10122306/a6ac448c-b3be-11ef-ae80-5e185bbeb2c1.png"></file>
-            <file href="res/data/islru-10122306/2366e510-6930-11ef-b94d-9e8224377c05.png"></file>
             <file href="res/data/islru-10122306/59c729c2-c443-11ef-a4cf-0a0db311419b.png"></file>
             <file href="res/data/islru-10122306/90e2e492-d98e-11ef-ac6b-e2ba23271ec9.png"></file>
             <file href="res/data/islru-10122306/a1f40d0a-c443-11ef-a4cf-0a0db311419b.png"></file>

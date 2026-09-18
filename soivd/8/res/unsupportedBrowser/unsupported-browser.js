@@ -1,6 +1,6 @@
 /* eslint-disable no-var */
 
-var SAFARI_MIN_SUPPORTED_VERSION = '14.1.0'
+var SAFARI_MIN_SUPPORTED_VERSION = '16.0.0'
 
 /**
  * @param {string} version
